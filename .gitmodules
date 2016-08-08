@@ -1,6 +1,8 @@
 [submodule "ReactiveKit"]
 	path = ReactiveKit
-	url = git@github.com:ReactiveKit/ReactiveKit.git
+	url = https://github.com/jblack10101/ReactiveKit
+	branch = v1-swift2.3-support
 [submodule "ReactiveFoundation"]
 	path = ReactiveFoundation
-	url = git@github.com:ReactiveKit/ReactiveFoundation.git
+	url = https://github.com/jblack10101/ReactiveFoundation
+	branch = v1-swift2.3-support
